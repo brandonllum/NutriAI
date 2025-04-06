@@ -1,0 +1,25 @@
+#:kivy 2.0.0
+#:import colors kivy.utils.get_color_from_hex
+
+<Button>:
+    font_size: dp(16)
+    background_normal: ''
+    background_color: colors('#42a5f5')  # Blue 400
+    color: 1, 1, 1, 1
+    border_radius: [dp(10), dp(10), 0, 0] if self.state == 'down' else [dp(10)]*4
+
+<TextInput>:
+    font_size: dp(16)
+    padding: [dp(10), dp(10), dp(10), dp(10)]
+    background_color: 1, 1, 1, 1
+    foreground_color: 0.2, 0.2, 0.2, 1
+    multiline: False
+    size_hint_y: None
+    height: dp(50)
+
+<Label>:
+    font_size: dp(16)
+    color: 0.2, 0.2, 0.2, 1
+    text_size: self.width, None
+    valign: 'center'
+    padding: [dp(10), dp(5)]

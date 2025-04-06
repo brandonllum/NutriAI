@@ -1,0 +1,76 @@
+{
+  "Saturday": {
+    "meal_plan": "Meal Plan:\nBreakfast:\n- FROSTED WHOLE GRAIN OAT CEREAL WITH MARSHMALLOWS TREASURES - 7.14g protein, 83.33g carbs, 3.57g fats, 394.0 kcal\n- APPLEWOOD SMOKED FLAVOR HAM PLANT-BASED DELI SLICES, APPLEWOOD SMOKED - 28.3g protein, 16.98g carbs, 7.55g fats, 249.0 kcal\nLunch:\n- SPICY SALSA TORTILLA STYLE CHIPS, SPICY SALSA - 32.14g protein, 17.86g carbs, 35.71g fats, 521.0 kcal\n- 2 ORGANIC VEGGIE BURGERS - 10.62g protein, 28.32g carbs, 18.58g fats, 323.0 kcal\nDinner:\n- HODGSON MILL, FETTUCCINE WITH MILLED FLAX SEED - 14.04g protein, 70.18g carbs, 4.39g fats, 376.0 kcal\n- Pork Boneless Shoulder Butt 1/8\" - 18.75g protein, 0.0g carbs, 16.96g fats, 228.0 kcal\nSnacks:\n- ROASTED AND UNSALTED WHOLE CASHEWS, ROASTED AND UNSALTED - 20.0g protein, 33.33g carbs, 43.33g fats, 603.0 kcal\n- STFR CN FC TKY CDOG 48/4 OZ - 7.72g protein, 28.23g carbs, 10.42g fats, 238.0 kcal\n- CLASSIC EGGNOG, CLASSIC - 3.33g protein, 18.33g carbs, 6.67g fats, 147.0 kcal\n- ORGANIC DICED YELLOW CLING PEACHES - 0.0g protein, 11.5g carbs, 0.0g fats, 46.0 kcal\n- RESTAURANT STYLE GOURMET SALSA, MILD - 0.0g protein, 6.9g carbs, 0.0g fats, 28.0 kcal\n- A SPICY YEMENI STYLE ZHOUG SALSA FEATURING PIQUANT JALAPENO PEPPERS AND RED PEPPER, HEIGHTENED BY REFRESHING CITRUS NOTES OF CILANTRO - 0.0g protein, 10.0g carbs, 0.0g fats, 40.0 kcal\n- SIGNATURE PIZZA, SHIITAKE MUSHROOM - 12.39g protein, 35.4g carbs, 7.08g fats, 255.0 kcal\n\nTotal Macros:\nProtein: 154.43g\nCarbs: 400.36g\nFats: 154.26g\nCalories: 3148.0 kcal\n",
+    "water_schedule": [
+      "3:00",
+      "210.0ml",
+      "4:00",
+      "210.0ml",
+      "5:00",
+      "210.0ml",
+      "6:00",
+      "210.0ml",
+      "7:00",
+      "210.0ml",
+      "8:00",
+      "210.0ml",
+      "9:00",
+      "210.0ml",
+      "10:00",
+      "210.0ml",
+      "11:00",
+      "210.0ml",
+      "12:00",
+      "210.0ml",
+      "13:00",
+      "210.0ml",
+      "14:00",
+      "210.0ml",
+      "15:00",
+      "210.0ml",
+      "16:00",
+      "210.0ml",
+      "17:00",
+      "210.0ml"
+    ],
+    "calorie_intake": 2810,
+    "macros": {
+      "Protein (g)": 211,
+      "Carbohydrates (g)": 316,
+      "Fats (g)": 78
+    }
+  },
+  "Sunday": {
+    "meal_plan": "Meal Plan:\nBreakfast:\n- FROSTED WHOLE GRAIN OAT CEREAL WITH MARSHMALLOWS TREASURES - 7.14g protein, 83.33g carbs, 3.57g fats, 394.0 kcal\n- APPLEWOOD SMOKED FLAVOR HAM PLANT-BASED DELI SLICES, APPLEWOOD SMOKED - 28.3g protein, 16.98g carbs, 7.55g fats, 249.0 kcal\n\nLunch:\n- SPICY SALSA TORTILLA STYLE CHIPS, SPICY SALSA - 32.14g protein, 17.86g carbs, 35.71g fats, 521.0 kcal\n- 2 ORGANIC VEGGIE BURGERS - 10.62g protein, 28.32g carbs, 18.58g fats, 323.0 kcal\n\nDinner:\n- HODGSON MILL, FETTUCCINE WITH MILLED FLAX SEED - 14.04g protein, 70.18g carbs, 4.39g fats, 376.0 kcal\n- GOYA, SARDINES IN VEGETABLE OIL - 14.29g protein, 3.57g carbs, 7.14g fats, 136.0 kcal\n- MARINARA SAUCE - 2.65g protein, 9.73g carbs, 1.77g fats, 65.0 kcal\n\nSnacks:\n- SUGAR FREE ALMOND COOKIES - 10.0g protein, 66.67g carbs, 20.0g fats, 487.0 kcal\n- ROASTED AND UNSALTED WHOLE CASHEWS, ROASTED AND UNSALTED - 20.0g protein, 33.33g carbs, 43.33g fats, 603.0 kcal\n- ORGANIC DICED YELLOW CLING PEACHES - 0.0g protein, 11.5g carbs, 0.0g fats, 46.0 kcal\n- RESTAURANT STYLE GOURMET SALSA, MILD - 0.0g protein, 6.9g carbs, 0.0g fats, 28.0 kcal\n- A SPICY YEMENI STYLE ZHOUG SALSA FEATURING PIQUANT JALAPENO PEPPERS AND RED PEPPER, HEIGHTENED BY REFRESHING CITRUS NOTES OF CILANTRO - 0.0g protein, 10.0g carbs, 0.0g fats, 40.0 kcal\n\nTotal Macros:\nProtein: 153.17g\nCarbs: 441.37g\nFats: 202.04g\nCalories: 3298.0 kcal\n",
+    "water_schedule": [
+      "8:00",
+      "350ml",
+      "9:00",
+      "350ml",
+      "13:00",
+      "350ml",
+      "14:00",
+      "350ml",
+      "15:00",
+      "350ml",
+      "16:00",
+      "350ml",
+      "17:00",
+      "350ml",
+      "18:00",
+      "350ml",
+      "19:00",
+      "350ml",
+      "20:00",
+      "350ml",
+      "21:00",
+      "350ml"
+    ],
+    "calorie_intake": 2709,
+    "macros": {
+      "Protein (g)": 146,
+      "Carbohydrates (g)": 336,
+      "Fats (g)": 96
+    }
+  }
+}
